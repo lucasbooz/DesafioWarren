@@ -24,7 +24,5 @@ Passo a passo de como executar cada desafio em seu ambiente de desenvolvimento:
 2 - Abra o arquivo JAVA, copie e cole o código na IDE que desejar e execute;
 Obs: Para o projeto utilizei a IDE Apache Netbeans 12.4, porém é possível criar um novo projeto em qualquer outra IDE, copiar e colar o código e executá-lo.
 
-### Licença
-Este projeto está licenciado sob a licenca MIT
 
 
