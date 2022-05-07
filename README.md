@@ -21,11 +21,10 @@ JAVA
 Passo a passo de como executar cada desafio em seu ambiente de desenvolvimento:
 
 1 - Abra o projeto no GitHub que deseja executar;
-2 - Abra a pasta "src" e em seguida abra a pasta do projeto, que contém o código fonte;
-3 - Abra o arquivo JAVA, copie e cole o código na IDE que desejar e execute
+2 - Abra o arquivo JAVA, copie e cole o código na IDE que desejar e execute;
 Obs: Para o projeto utilizei a IDE Apache Netbeans 12.4, porém é possível criar um novo projeto em qualquer outra IDE, copiar e colar o código e executá-lo.
 
 ### Licença
-Este projeto está licenciado sob a licenca MIT - veja o arquivo LICENSE para detalhes
+Este projeto está licenciado sob a licenca MIT
 
 
